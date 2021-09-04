@@ -1,3 +1,5 @@
+![video](https://user-images.githubusercontent.com/10097678/132106396-5d463cfc-4b71-434a-908d-a31078356a03.gif)
+
 # 2d-character-controller
 
 If you are starting your adventure with the Unity3D engine, you will definitely need a 2D character controller. We have prepared a quick-to-implement solution for a character controller that can walk and jump. This controller based on custom physics with collisions and does not handle sloped surfaces - only flat ground or vertical walls. Nevertheless, it is a perfect example of taking the first steps.
