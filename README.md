@@ -1,4 +1,4 @@
-![video](https://user-images.githubusercontent.com/10097678/132106396-5d463cfc-4b71-434a-908d-a31078356a03.gif)
+![gameplay](https://user-images.githubusercontent.com/10097678/133776365-df80bde0-0dca-4788-9db1-c4233706f36f.gif)
 
 # 2d-character-controller
 
