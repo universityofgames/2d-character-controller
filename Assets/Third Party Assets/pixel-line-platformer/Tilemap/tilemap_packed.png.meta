@@ -183,7 +183,7 @@ TextureImporter:
       213: 3043803401794877445
     second: tilemap_packed_59
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -200,10 +200,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -242,6 +244,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -293,6 +297,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1576,9 +1592,69 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      tilemap_packed_38: 8370045735175484773
+      tilemap_packed_19: 8397989551524518093
+      tilemap_packed_17: 2477165178263458841
+      tilemap_packed_46: 300111219152401311
+      tilemap_packed_48: 7820271134184854335
+      tilemap_packed_22: -8536881040180527926
+      tilemap_packed_8: 6766204184792930467
+      tilemap_packed_44: 5499604176112497311
+      tilemap_packed_2: -7397652778513525935
+      tilemap_packed_20: 1724406721867405357
+      tilemap_packed_21: 2772701748520179734
+      tilemap_packed_28: 676389156815778814
+      tilemap_packed_0: -1453350334737186109
+      tilemap_packed_27: 6481843683198900548
+      tilemap_packed_1: -5773244093850934461
+      tilemap_packed_13: -575958652271738017
+      tilemap_packed_9: -6825893594525092589
+      tilemap_packed_55: 6296481076110622113
+      tilemap_packed_45: 5287519128651476915
+      tilemap_packed_14: -7486966618002133862
+      tilemap_packed_3: -4657764202658221571
+      tilemap_packed_30: -1922718596493688381
+      tilemap_packed_34: -2109526591982821652
+      tilemap_packed_16: -5896583775246068787
+      tilemap_packed_31: 2193850121719815593
+      tilemap_packed_57: 5343863954073821178
+      tilemap_packed_43: 3306685679501119899
+      tilemap_packed_6: 7454484266408833828
+      tilemap_packed_49: -4509013335239166420
+      tilemap_packed_4: -3333449033900058284
+      tilemap_packed_25: 4156198131015929367
+      tilemap_packed_59: 3043803401794877445
+      tilemap_packed_32: 3878058476398093058
+      tilemap_packed_18: -5288467643486806036
+      tilemap_packed_12: 3425605258711615321
+      tilemap_packed_37: -5428961434384607821
+      tilemap_packed_52: -5337296085697385273
+      tilemap_packed_39: -1350529663752499361
+      tilemap_packed_7: -1409608323598810497
+      tilemap_packed_15: 7351026898981361674
+      tilemap_packed_29: -6784488196640772561
+      tilemap_packed_47: 2206169814674520342
+      tilemap_packed_41: -3808225004935048808
+      tilemap_packed_33: 659562857678726857
+      tilemap_packed_24: 400168491753690432
+      tilemap_packed_26: 1841318695426966024
+      tilemap_packed_36: -5392623065878854326
+      tilemap_packed_42: 5732307694499621417
+      tilemap_packed_23: 268298554507707185
+      tilemap_packed_54: -5766062063545882839
+      tilemap_packed_11: -8419292424465274708
+      tilemap_packed_50: -4970067154865029653
+      tilemap_packed_58: 2128294600738411159
+      tilemap_packed_10: 8654281846431810975
+      tilemap_packed_51: -2452500989543857958
+      tilemap_packed_56: 5825491608552330040
+      tilemap_packed_53: 2658747906679183987
+      tilemap_packed_40: 7176334326959469849
+      tilemap_packed_5: -6373955360715321419
+      tilemap_packed_35: -688962450749631956
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
